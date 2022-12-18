@@ -24,4 +24,4 @@ train_images - This directory contains 10,200 training images. Filename correspo
 test_images - This directory contains 10,400 test set images.
 
 
-DATASET LINK : https://www.kaggle.com/competitions/dog-breed-identification/data?select=labels.csv
+DATASET LINK : https://www.kaggle.com/competitions/dog-breed-identification/data
