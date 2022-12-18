@@ -1,5 +1,9 @@
 # VoltaML-Assignment
 
+![image](https://user-images.githubusercontent.com/73071787/208301898-cbcc4984-4165-4ccb-ad0b-b3dc7fa5d7b1.png) 
+
+
+
 Problem Statement:
 
 Who's a good dog? Who likes ear scratches? Well, it seems those fancy deep neural networks don't have all the answers. However, maybe they can answer that ubiquitous question we all ask when meeting a four-legged stranger: what kind of good pup is that? I tried to provide a solution on how well people can differentiate your Norfolk Terriers from your Norwich Terriers? With 120 breeds of dogs and a limited number training images per class.
