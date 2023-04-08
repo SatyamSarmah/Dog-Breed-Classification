@@ -1,4 +1,4 @@
-# VoltaML-Assignment
+# Dog Breed Classification
 
 ![image](https://user-images.githubusercontent.com/73071787/208301898-cbcc4984-4165-4ccb-ad0b-b3dc7fa5d7b1.png) 
 
