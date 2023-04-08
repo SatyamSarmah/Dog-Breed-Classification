@@ -1,4 +1,4 @@
-# VoltaML-Assignment
+# Dog Breed Classification
 
 Problem Statement:
 
